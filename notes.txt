@@ -1,0 +1,2 @@
+# Projects Notes
+Today I learnt about Git basic
